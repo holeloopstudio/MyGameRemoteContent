@@ -4,10 +4,10 @@
   "banners": {
     "BNR-3F42-C88D": {
       "name": "Face",
-      "imageUrl": "https://raw.githubusercontent.com/holeloopstudio/MyGameRemoteContent/main/Images/WhatsApp%20Image%202026-04-05%20at%2010.25.10%20AM.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/holeloopstudio/MyGameRemoteContent/main/Images/Mouth.png",
       "shaderProperty": "_MainTexture",
       "enabled": true,
-      "version": 3,
+      "version": 4,
       "createdAt": "2026-07-04T18:40:09.185Z",
       "lastModified": "2026-07-04T18:45:32.477Z"
     },
