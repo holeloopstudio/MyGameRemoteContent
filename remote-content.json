@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-04T18:40:55.965Z",
+  "lastUpdated": "2026-07-04T18:45:41.631Z",
   "banners": {
     "BNR-3F42-C88D": {
       "name": "Face",
-      "imageUrl": "https://raw.githubusercontent.com/holeloopstudio/MyGameRemoteContent/main/Images/Mouth.png",
+      "imageUrl": "https://raw.githubusercontent.com/holeloopstudio/MyGameRemoteContent/main/Images/WhatsApp%20Image%202026-04-05%20at%2010.25.10%20AM.jpeg",
       "shaderProperty": "_MainTexture",
       "enabled": true,
-      "version": 2,
+      "version": 3,
       "createdAt": "2026-07-04T18:40:09.185Z",
-      "lastModified": "2026-07-04T18:40:34.969Z"
+      "lastModified": "2026-07-04T18:45:32.477Z"
     },
     "BNR-D645-E299": {
       "name": "Fares",
