@@ -1,15 +1,24 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-04T17:44:24.930Z",
+  "lastUpdated": "2026-07-04T18:40:55.965Z",
   "banners": {
-    "BNR-3613-6668": {
-      "name": "xxc",
+    "BNR-3F42-C88D": {
+      "name": "Face",
       "imageUrl": "https://raw.githubusercontent.com/holeloopstudio/MyGameRemoteContent/main/Images/Mouth.png",
       "shaderProperty": "_MainTexture",
       "enabled": true,
-      "version": 4,
-      "createdAt": "2026-07-04T12:57:30.142Z",
-      "lastModified": "2026-07-04T16:57:00.564Z"
+      "version": 2,
+      "createdAt": "2026-07-04T18:40:09.185Z",
+      "lastModified": "2026-07-04T18:40:34.969Z"
+    },
+    "BNR-D645-E299": {
+      "name": "Fares",
+      "imageUrl": "https://raw.githubusercontent.com/holeloopstudio/MyGameRemoteContent/main/Images/WhatsApp%20Image%202026-04-05%20at%2010.25.10%20AM.jpeg",
+      "shaderProperty": "_MainTexture",
+      "enabled": true,
+      "version": 3,
+      "createdAt": "2026-07-04T18:38:03.635Z",
+      "lastModified": "2026-07-04T18:38:19.373Z"
     }
   }
 }
